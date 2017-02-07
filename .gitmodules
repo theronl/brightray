@@ -1,9 +1,9 @@
 [submodule "vendor/libchromiumcontent"]
 	path = vendor/libchromiumcontent
-	url = https://github.com/electron/libchromiumcontent
+	url = git@github.com:electron/libchromiumcontent.git
 [submodule "vendor/gyp"]
 	path = vendor/gyp
-	url = https://github.com/electron/gyp
+	url = git@github.com:electron/gyp.git
 [submodule "vendor/google-styleguide"]
 	path = vendor/google-styleguide
-	url = https://github.com/svn2github/sgss-mirror-google-styleguide
+	url = git@github.com:svn2github/sgss-mirror-google-styleguide.git
